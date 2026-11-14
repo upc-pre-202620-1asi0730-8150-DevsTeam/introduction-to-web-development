@@ -8,3 +8,5 @@
 4. (4:00) Atributos: dan información extra a una etiqueta, por ejemplo `lang="es"`.
 5. (5:00) **Pausa de práctica:** escribir un `<h1>` con tu nombre y un `<p>` con una frase.
 6. (7:00) Comparar con `/completed-examples/lesson2-completed.html`.
+
+**Link: https://youtu.be/Xx15WEk8tMk?si=g8LwZoEFdIS2zTXb**

@@ -9,3 +9,5 @@
 5. (5:30) Enlaces con `<a href="...">`.
 6. (6:30) **Pausa de práctica:** agregar una lista de tus gustos, una imagen y un enlace.
 7. (8:30) Comparar con `/completed-examples/lesson3-completed.html`.
+
+**Link: https://youtu.be/1FjxEjPYPxk**

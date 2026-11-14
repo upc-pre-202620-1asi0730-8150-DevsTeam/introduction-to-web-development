@@ -8,3 +8,5 @@
 4. (3:30) Ruta de imagen incorrecta y `alt` vacío.
 5. (4:30) Cómo depurar: leer el código línea por línea y comentar partes con `<!-- -->` y `/* */`.
 6. (5:30) Recursos para seguir: MDN Web Docs. Invitar a compartir el resultado con el formulario.
+
+**Link: https://youtu.be/HTYe7vHOvlo**

@@ -9,3 +9,5 @@
 5. (8:30) **Pausa de práctica 2:** personalizar colores y fuentes.
 6. (10:30) Cómo guardar y compartir el proyecto desde el editor en línea.
 7. (11:30) Comparar con `/completed-examples/lesson6-completed.html` y `.css`.
+
+**Link: https://youtu.be/bMS4_qSFThg**

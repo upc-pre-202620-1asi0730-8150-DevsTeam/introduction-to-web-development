@@ -12,3 +12,5 @@
 | 5:30 | Enlace a CodePen | Abre el enlace de la descripción: solo necesitas tu navegador. |
 
 **Práctica (pausa):** abrir el editor en línea y reconocer los tres paneles: HTML, CSS y resultado.
+
+**Link: https://youtu.be/cNz5d6GWod0?si=eglTgVtjhTHWFFNZ**
